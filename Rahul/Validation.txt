@@ -6,4 +6,4 @@ Different Structures: XXX
 Migration Completed: XXX
 Migration Remaining: XXX
 Migration Percentage: XX%
-Validation Status: FULLY MIGRATED
+Validation Status: XX

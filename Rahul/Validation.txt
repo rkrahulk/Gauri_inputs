@@ -1,9 +1,9 @@
-Migration Validation Report
+Migration Validation Report:
 Lines in Reference File: 500
 Lines in Output File: 450
-Matching Structures: 95
+Matching Structures: 45
 Different Structures: 5
-Migration Completed: 95%
-Migration Remaining: 5%
-Migration Percentage: 95%
+Migration Completed: 90%
+Migration Remaining: 10%
+Migration Percentage: 90%
 Validation Status: PARTIALLY MIGRATED – GOOD TO GO

@@ -1,1 +1,1 @@
-Migrated content here
+Migrated content with Databricks logging framework
